@@ -1,0 +1,5 @@
+ejb\model\dao\IoTDAO.class
+ejb\util\DBUtil.class
+ejb\message\SensorDataReceiver.class
+ejb\analyse\DataAnalyticsBean.class
+ejb\model\IoTDevice.class
